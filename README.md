@@ -2,9 +2,6 @@
 Training
 I'm learning programing in Python and I'm lovely for new step.
 
-@NadiaaOliverr
-NadiaaOliverr/Markdown
-"https://gist.github.com/NadiaaOliverr/f03277eb35e6f3b4012d802e463091f0.js"></script>
 
 Principais comandos em Markdown
 Markdown
